@@ -1,4 +1,8 @@
-## Todo
+## TodoApp
+
+Using [https://github.com/mluukkai/todo_api](https://github.com/mluukkai/todo_api)
+
+## Missing features
 
 * signup
 * confirmation for done
